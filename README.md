@@ -1,35 +1,105 @@
-<h1 align="center">Hi 👋, I'm Sameera Tanveer</h1>
-<h3 align="center">An Aspirant Data Scientist from HYD, India</h3>
+# Hi there 👋, I'm **Sameera Tanveer**  
+### An Aspiring Data Scientist from Hyderabad, India
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeratanveer&label=Profile%20views&color=0e75b6&style=flat" alt="sameeratanveer" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameeratanveer" alt="sameeratanveer" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Data analysis project**
+## 🚀 About Me:
+- 🔭 Currently working on **Data Analysis Projects**
+- 🌱 Learning **Deep Learning**, **FastAPI**, and **MLOps**
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/sameeratanveer)
+- 📝 I regularly write articles on [Medium](https://medium.com/@sameeratanveer07)
+- 💬 Ask me about **Machine Learning**, **Python**, **SQL**, **Power BI** and **Tableau**
+- 📫 Reach out to me via [email](mailto:sameeratanveer07@gmail.com)
 
-- 🌱 I’m currently learning **Deep Learning, FastAPI, MLOPS**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/sameeratanveer](https://github.com/sameeratanveer)
-
-- 📝 I regularly write articles on [https://medium.com/@sameeratanveer07](https://medium.com/@sameeratanveer07)
-
-- 💬 Ask me about **Machine Learning, Python, SQL, Tableau**
-
-- 📫 How to reach me **sameeratanveer07@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+## 📣 Connect with Me:
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sameera-tanveer-b52366296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sameera-tanveer-b52366296" height="30" width="40" /></a>
-<a href="https://kaggle.com/sameeratanveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sameeratanveer" height="30" width="40" /></a>
-<a href="https://medium.com/@sameeratanveer07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sameeratanveer07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sameeratanveer07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sameeratanveer07" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sameera-tanveer-b52366296" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/sameeratanveer" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@sameeratanveer07" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/sameeratanveer07" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameeratanveer&show_icons=true&locale=en&layout=compact" alt="sameeratanveer" /></p>
+## 🛠️ Technologies & Tools:
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameeratanveer&show_icons=true&locale=en" alt="sameeratanveer" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameeratanveer&" alt="sameeratanveer" /></p>
+## 🎓 Education:
+- **Bachelor's Degree in Computer Science** (2021 - 2025)  
+  *Shadan Women's College of Engineering and Technology (Affiliated to JNTUH), Hyderabad, India*  
+  Focus on Data Analytics, Machine Learning, Data Science, and Cloud Computing
+
+---
+
+## 💼 Experience & Projects:
+- **Data Analysis Project** – In progress
+- **POWER BI PROJECTS** -
+  1. Finance Domain (Bank Loan analysis) & SQL : [Link to SQL + Power BI dashbaoard](https://github.com/sameeratanveer/Finance_Data_Analysis_Projects/tree/main/P1_Bank_Loan_Data_Analysis)
+  2. HR Data analysis : [Link to Project](https://github.com/sameeratanveer/powerbi_projects/tree/main/P1_HR_Data_Analytics_Project)
+     
+- **EXCEL PROJECTS** - [Link to projects](https://github.com/sameeratanveer/Excel-Projects-Portfolio)
+  1. E-commerce Sale Analysis - [Link to Excel project](https://github.com/sameeratanveer/Excel-Projects-Portfolio/tree/main/P1_ECOMMERCE_SALES_ANALYSIS)
+  2. IPL Data Analysis - [Link to Excel project](https://github.com/sameeratanveer/Excel-Projects-Portfolio/tree/main/P2_IPL_Data_Analysis_Dashboard)
+  3. HR Data analysis - [Link to Excel project](https://github.com/sameeratanveer/Excel-Projects-Portfolio/tree/main/P3_HR_Data_Analysis_Dashboard)
+     
+- **TABLEAU PROJECTS** - [Link to Tableau projects repository](https://github.com/sameeratanveer/tableau-projects)
+  1. Car Sales Dashboard - [Link to Tableau Project](https://github.com/sameeratanveer/tableau-projects/tree/main/Learning-Project-1-Car-Sales-Dashboard)
+  2. Bank Loan Analysis - [Link to Tableau Project](https://github.com/sameeratanveer/tableau-projects/tree/main/Project-3-Bank-Loan-Analysis-Report)
+
+- **MACHINE LEARNING PROJECTS**
+  1. Flight Delay Prediction (Clg project): [Link to Project](https://github.com/sameeratanveer/Flight-Delay-Prediction)
+  2. E-Commerce Yearly Amount Spent By Customers Preiction (+Streamlit) [Link to Project](https://github.com/sameeratanveer/E-commerce-yearly-amount-spent-prediction-streamlit-web)
+
+
+
+
+---
+
+### ### Thank you for exploring!
+#### Contact & Collaboration
+Thank you for checking out this project! If you're interested in discussing the project further, collaborating, or have any questions, feel free to reach out to me.
+
+I'm a student with a keen interest in Data Analysis and currently looking for job opportunities in this field. You can connect with me through:
+
+📧 Email: [sameeratanveer07@gmail.com](mailto:sameeratanveer07@gmail.com)
+💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sameera-tanveer-b52366296)
+🐱 GitHub: [GitHub Profile](https://github.com/sameeratanveer)
