@@ -79,6 +79,7 @@
 - **EXCEL PROJECTS** - [Link to projects](https://github.com/sameeratanveer/Excel-Projects-Portfolio)
   1. E-commerce Sale Analysis - [Link to Excel project](https://github.com/sameeratanveer/Excel-Projects-Portfolio/tree/main/P1_ECOMMERCE_SALES_ANALYSIS)
   2. IPL Data Analysis - [Link to Excel project](https://github.com/sameeratanveer/Excel-Projects-Portfolio/tree/main/P2_IPL_Data_Analysis_Dashboard)
+     (LinkedIn post for quick insights & overview) [Link to LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7305382896834420736/)
   3. HR Data analysis - [Link to Excel project](https://github.com/sameeratanveer/Excel-Projects-Portfolio/tree/main/P3_HR_Data_Analysis_Dashboard)
      
 - **TABLEAU PROJECTS** - [Link to Tableau projects repository](https://github.com/sameeratanveer/tableau-projects)
@@ -96,10 +97,12 @@
 
 ### ### Thank you for exploring!
 #### Contact & Collaboration
-Thank you for checking out this project! If you're interested in discussing the project further, collaborating, or have any questions, feel free to reach out to me.
+Thank you for checking out! If you're interested in discussing the project further, collaborating, or have any questions, feel free to reach out to me.
 
 I'm a student with a keen interest in Data Analysis and currently looking for job opportunities in this field. You can connect with me through:
 
 📧 Email: [sameeratanveer07@gmail.com](mailto:sameeratanveer07@gmail.com)
+
 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sameera-tanveer-b52366296)
+
 🐱 GitHub: [GitHub Profile](https://github.com/sameeratanveer)
