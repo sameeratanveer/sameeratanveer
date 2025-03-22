@@ -76,8 +76,10 @@
   1. Finance Domain (Bank Loan analysis) & SQL : [Link to SQL + Power BI dashbaoard](https://github.com/sameeratanveer/Finance_Data_Analysis_Projects/tree/main/P1_Bank_Loan_Data_Analysis)
      **Tech Stack** : SQL, POWER BI 
   2. Finance Domain (Loan Default Predicition System) : [Link_to_project](https://github.com/sameeratanveer/Finance_Data_Analysis_Projects/tree/main/P2_Loan-default-analysis-%26-prediction-project)
-     **Tech Stack** : Machine Learning, Python(Flask), Postman, POWER BI 
-  5. HR Data analysis : [Link to Project](https://github.com/sameeratanveer/powerbi_projects/tree/main/P1_HR_Data_Analytics_Project)
+     **Tech Stack** : Machine Learning, Python(Flask), Postman, POWER BI
+  3. Finance Domain (Stock Price Preddiction System) : [Link_to_project](https://github.com/sameeratanveer/Finance_Data_Analysis_Projects/tree/main/P3_Stock_Price_Prediction_System)
+     **Tech Stack** : Web Scraping, API (yfinance), Machine Learning, NLP, POWER BI
+  4. HR Data analysis : [Link to Project](https://github.com/sameeratanveer/powerbi_projects/tree/main/P1_HR_Data_Analytics_Project)
      
 - **EXCEL PROJECTS** - [Link to projects](https://github.com/sameeratanveer/Excel-Projects-Portfolio)
   1. E-commerce Sale Analysis - [Link to Excel project](https://github.com/sameeratanveer/Excel-Projects-Portfolio/tree/main/P1_ECOMMERCE_SALES_ANALYSIS)
