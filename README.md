@@ -1,5 +1,6 @@
 # Hi there 👋, I'm **Sameera Tanveer**  
 ### An Aspiring Data Scientist from Hyderabad, India
+Building models that learn patterns and perform tasks that would be hard to achieve with traditional rule-based programming or standard software engineering.
 
 ---
 
