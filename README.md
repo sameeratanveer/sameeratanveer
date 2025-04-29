@@ -1,3 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio</title>
+
+  <!-- Media Query for Mobile Responsiveness -->
+  <style>
+    @media (max-width: 768px) {
+      table {
+        display: block;
+      }
+      td {
+        width: 100%;
+        text-align: center;
+      }
+      img {
+        width: 80%; /* Adjust image width on mobile */
+        max-width: 400px;
+        height: auto;
+      }
+      h1 {
+        font-size: 30px; /* Adjust font size for smaller screens */
+      }
+    }
+  </style>
+</head>
+<body>
+
 <!-- Background Image -->
 <img src="https://i.pinimg.com/736x/44/c8/6d/44c86da04bb9570dc171071691312427.jpg" alt="Portrait Image" width="100%" height="400"/>
 
@@ -18,26 +48,9 @@
   </tr>
 </table>
 
-<!-- Media Query for Mobile Responsiveness -->
-<style>
-  @media (max-width: 768px) {
-    table {
-      display: block;
-    }
-    td {
-      width: 100%;
-      text-align: center;
-    }
-    img {
-      width: 80%; /* Adjust image width on mobile */
-      max-width: 400px;
-      height: auto;
-    }
-    h1 {
-      font-size: 30px; /* Adjust font size for smaller screens */
-    }
-  }
-</style>
+</body>
+</html>
+
 
 
 ## 📬 Let's Connect
