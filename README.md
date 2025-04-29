@@ -108,6 +108,7 @@ _May 2024 – Nov 2024_
 
 
 ## 📬 Let's Connect
+I'm always open to collaborating on projects, discussing data science ideas, or just connecting with like-minded individuals!
 
 <p align="center">
   <a href="https://sameeratanveer.netlify.app">
