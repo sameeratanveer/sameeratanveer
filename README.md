@@ -1,19 +1,44 @@
 <!-- Background Image -->
 <img src="https://i.pinimg.com/736x/44/c8/6d/44c86da04bb9570dc171071691312427.jpg" alt="Portrait Image" width="100%" height="400"/>
 
-<table style="display: flex; justify-content: space-between; align-items: center;">
+<table style="width: 100%; display: flex; justify-content: space-between; align-items: center;">
   <tr>
-    <td style="width: 30%; vertical-align:middle;"><img src="https://github.com/sameeratanveer/sameeratanveer.github.io/blob/main/assets/images/about/sameera_photo_portfolio.png" alt="Sameera Tanveer" width="600" height="400"></td>
-    <!-- Left Side: Text (80%) -->
+    <!-- Left Side: Image (30%) -->
+    <td style="width: 30%; vertical-align: middle;">
+      <img src="https://github.com/sameeratanveer/sameeratanveer.github.io/blob/main/assets/images/about/sameera_photo_portfolio.png" alt="Sameera Tanveer" style="width: 100%; max-width: 600px; height: auto;">
+    </td>
+    <!-- Right Side: Text (70%) -->
     <td style="width: 70%; vertical-align: middle; padding-right: 20px;">
-      <h1 style="font-size: 40;"> 👋 <strong>Hey, I’m Sameera Tanveer!</strong></h1>
-      <p>I’m a Data Science enthusiast with a passion for AI and Machine Learning. </p>
-      <p>Currently studying AI & Data Science, I’m diving into everything from Python and SQL to Power BI and NLP.</p> <p></p>
-      I love solving real-world problems with data, whether it's predicting customer churn or analyzing loan defaults. <p></p>
+      <h1 style="font-size: 40px;"> 👋 <strong>Hey, I’m Sameera Tanveer!</strong></h1>
+      <p>I’m a Data Science enthusiast with a passion for AI and Machine Learning.</p>
+      <p>Currently studying AI & Data Science, I’m diving into everything from Python and SQL to Power BI and NLP.</p>
+      <p>I love solving real-world problems with data, whether it's predicting customer churn or analyzing loan defaults.</p>
       <p>My goal? To work on exciting projects and eventually land a remote Data Scientist role at a top tech company where I can make a real impact!</p>
     </td>
   </tr>
 </table>
+
+<!-- Media Query for Mobile Responsiveness -->
+<style>
+  @media (max-width: 768px) {
+    table {
+      display: block;
+    }
+    td {
+      width: 100%;
+      text-align: center;
+    }
+    img {
+      width: 80%; /* Adjust image width on mobile */
+      max-width: 400px;
+      height: auto;
+    }
+    h1 {
+      font-size: 30px; /* Adjust font size for smaller screens */
+    }
+  }
+</style>
+
 
 ## 📬 Let's Connect
 
