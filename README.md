@@ -3,28 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portfolio</title>
-
-  <!-- Media Query for Mobile Responsiveness -->
-  <style>
-    @media (max-width: 768px) {
-      table {
-        display: block;
-      }
-      td {
-        width: 100%;
-        text-align: center;
-      }
-      img {
-        width: 80%; /* Adjust image width on mobile */
-        max-width: 400px;
-        height: auto;
-      }
-      h1 {
-        font-size: 30px; /* Adjust font size for smaller screens */
-      }
-    }
-  </style>
+  
 </head>
 <body>
 
